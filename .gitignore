@@ -1,0 +1,38 @@
+# Ignore virtual environments
+venv/
+env/
+Lib/
+Scripts/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore model and data artifacts
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Ignore compiled or binary files
+*.dll
+*.exe
+*.so
+*.zip
+*.tar
+*.gz
+
+# Ignore logs and system files
+*.log
+.DS_Store
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore build and dist folders
+build/
+dist/
