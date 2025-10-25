@@ -4,7 +4,7 @@
 
 This project aims to predict the fuel efficiency (`mpg`) of automobiles based on various features such as engine size, horsepower, weight, acceleration, model year, and origin. Multiple regression models were applied to determine the best-performing algorithm.
 
-Dataset link: [car mileage prediction dataset](https://www.kaggle.com/datasets/uciml/autompg-dataset)
+Dataset link: [Car Mileage Prediction Dataset](https://www.kaggle.com/datasets/uciml/autompg-dataset)
 
 
 The dataset used is `auto-mpg.csv` containing 398 car entries with 9 columns:
